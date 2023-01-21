@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1046574417828",
+    "project_id": "accenture-29766",
+    "storage_bucket": "accenture-29766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046574417828:android:97347aed8c0b45089ce331",
+        "android_client_info": {
+          "package_name": "com.skytechnohub.accenture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046574417828-n5vsuk2bjo15up369mr7oepj5i6u8pm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDyPoVRq9ym6W_YDuFBR1MTBbjTl6eJvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046574417828-n5vsuk2bjo15up369mr7oepj5i6u8pm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046574417828-h3p5p05816neuoh01kq0tnscmjj7vfgi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skytechnohub.chat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046574417828:android:6c115b81e753c1c49ce331",
+        "android_client_info": {
+          "package_name": "com.skytechnohub.majorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046574417828-n5vsuk2bjo15up369mr7oepj5i6u8pm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDyPoVRq9ym6W_YDuFBR1MTBbjTl6eJvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046574417828-n5vsuk2bjo15up369mr7oepj5i6u8pm7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046574417828-h3p5p05816neuoh01kq0tnscmjj7vfgi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skytechnohub.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
